@@ -9,7 +9,7 @@
 ## 
 
 <h3 align="center">
-Engenheiro de Software em formação, focado no desenvolvimento com tecnologias como TypeScript, React, Next.js e Node.js... 
+Dev FullStack em formação, focado no desenvolvimento com tecnologias como TypeScript, React, Next.js e Node.js... 
 Busco criar aplicações com código limpo e boas práticas, sempre em constante evolução e aprendizado.
 </h3>
 
